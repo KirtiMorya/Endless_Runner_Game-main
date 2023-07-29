@@ -1,2 +1,2 @@
 # Endless-Runner-Game
-Created using JavaScript and contributed by Kirti Morya
+Created using HTML, CSS, JavaScript
